@@ -1,0 +1,14 @@
+git status 
+
+//agregar de forma provisoria 
+git add hola.txt
+
+git status
+
+//pasarlo de forma definitiva
+git commit m "estoy seguro de este commit 1"
+
+
+git log
+
+git push -u origin master
