@@ -1,0 +1,8 @@
+para que sirven los comandos y su 
+explicación: 
+
+git config user.name 
+
+git config user.email
+
+git remote add origin
